@@ -1,6 +1,7 @@
 # Frontend do Projeto Meu Blog Pessoal
 
-Este é o frontend do projeto Meu Blog Pessoal. Aqui estão os principais arquivos e diretórios:
+Frontend Meu Blog Pessoal. 
+Principais arquivos e diretórios:
 
 ## Estrutura de Diretórios
 

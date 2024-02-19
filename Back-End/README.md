@@ -1,6 +1,7 @@
 # Backend do Projeto Meu Blog Pessoal
 
-Este é o backend do projeto Meu Blog Pessoal. Aqui estão os principais arquivos e diretórios:
+Backend Meu Blog Pessoal. 
+Principais arquivos e diretórios:
 
 ## Estrutura de Diretórios
 
